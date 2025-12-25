@@ -20,7 +20,7 @@
 
 25.11.18 NDJSON [링크](https://velog.io/@min_tech/NDJSON)
 
-25.11.28 Vision Transformer [링크](https://velog.io/@min_tech/Vision-Transformer)
+25.11.28 Vision Transformer [링크](https://velog.io/@min_tech/Vision-TransformerViT-%EA%B5%AC%ED%98%84)
 
 
 
