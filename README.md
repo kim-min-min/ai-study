@@ -1,6 +1,5 @@
-# til-template
 
-## (Today I Learned)
+## Ai Study
 
 ### [10월] : Machine Learning, Deep Learning, Github
 
