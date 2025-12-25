@@ -13,9 +13,9 @@
 
 ### [11월] : Deep Learning, Transformer
 
-25.11.4 Transformer [링크](https://velog.io/@min_tech/Transformer)
+25.11.2 VGG16 vs ResNet18 성능 비교 [링크](https://docs.google.com/document/d/13bGzaKSxDiMVbdTR_fYovUxxp5ITmsW3qPvoQMmlxwo/edit?usp=sharing)
 
-25.11.18 NDJSON [링크](https://velog.io/@min_tech/NDJSON)
+25.11.4 Transformer [링크](https://velog.io/@min_tech/Transformer)
 
 25.11.28 Vision Transformer [링크](https://velog.io/@min_tech/Vision-TransformerViT-%EA%B5%AC%ED%98%84)
 
