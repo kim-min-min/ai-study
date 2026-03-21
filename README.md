@@ -25,7 +25,7 @@ Vision Transformer [링크](https://drive.google.com/file/d/1xBfYeNZfcyOriUc0slG
 
 vLLM [링크](https://velog.io/@min_tech/vLLM)
 
-
+Qwen3-VL [링크](https://velog.io/@min_tech/Qwen3-VL)
 
 
 
