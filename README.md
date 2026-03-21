@@ -1,7 +1,7 @@
 
 ## Ai Study
 
-### [10월] : Machine Learning, Deep Learning, Github
+### [10월] : Machine Learning, Deep Learning
 
 CUDA, GPU 이해하기 [링크](https://velog.io/@min_tech/CUDA)
 
