@@ -1,7 +1,6 @@
 
 ## Ai Study
 
-### [10월] : Machine Learning, Deep Learning
 
 CUDA, GPU 이해하기 [링크](https://velog.io/@min_tech/CUDA)
 
@@ -13,20 +12,17 @@ CUDA, GPU 이해하기 [링크](https://velog.io/@min_tech/CUDA)
 
 YOLOv1 [링크](https://velog.io/@min_tech/YOLO-v1)
 
-### [11월] : Deep Learning, Transformer
-
 VGG16 vs ResNet18 성능 비교 [링크](https://docs.google.com/document/d/13bGzaKSxDiMVbdTR_fYovUxxp5ITmsW3qPvoQMmlxwo/edit?usp=sharing)
 
 Transformer [링크](https://drive.google.com/file/d/126C7a_IOE8R8gi9CW3fRWU-XZNVaDslB/view?usp=drive_link)
 
 Vision Transformer [링크](https://drive.google.com/file/d/1xBfYeNZfcyOriUc0slG4BdHeQoDRRhKA/view?usp=drive_link)
 
-### [3월] : Deep Learning
+U-Net [링크](https://velog.io/@min_tech/U-Net)
 
 vLLM [링크](https://velog.io/@min_tech/vLLM)
 
 Qwen3-VL [링크](https://velog.io/@min_tech/Qwen3-VL)
-
 
 
 
