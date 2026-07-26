@@ -24,6 +24,6 @@ vLLM [링크](https://velog.io/@min_tech/vLLM)
 
 Qwen3-VL [링크](https://velog.io/@min_tech/Qwen3-VL)
 
-
+Diffusion-Transformer [링크](https://velog.io/@min_tech/Diffusion-Transformer)
 
 
